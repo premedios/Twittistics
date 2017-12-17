@@ -1,0 +1,6 @@
+framework module Pods_Twittistics {
+  umbrella header "Pods-Twittistics-umbrella.h"
+
+  export *
+  module * { export * }
+}
